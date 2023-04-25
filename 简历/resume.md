@@ -7,7 +7,7 @@ Bruce Chen
 [Email: 610048251@qq.com]
 
 [Career Development Experience]
-- HashKey, Senior Developer (Wallet Designer), January 2023 - April 2023
+- HashKey, Senior Developer (Wallet Designer), January 2023 - March 2023
 - Bybit, Node.js Full Stack Engineer, February 2021 - November 2022
 - Nike, Senior Developer, October 2019 - October 2020
 - PwC New Venture, Tech Leader, February 2016 - October 2019
@@ -25,7 +25,7 @@ My role was to independently design and develop the project, and complete the la
 - Bydefi, April 2022 - August 2022
 Project Description: This was a cross-chain exchange project that required implementing multi-chain cross-chain exchange. The biggest challenge was to ensure the security of cross-chain exchange, as funds in the capital pool are public. As this project risk control leader, I designed the entire on-chain exchange security plan and made sure that every step of the operation was traceable, which helped ensure the project's success. In addition, I lead a team of two developers to complete the project development.
 
-- NFT, January 2022 - Present
+- NFT, January 2022 - October 2023
 Project Description: As Bybit Group's annual project, we needed to implement the deposit and withdrawal of ERC721 and ERC1155 tokens. My role was to independently design, develop, and implement the on-chain process and ensure stable operation for over a year.
 
 - Taie-User-Group, November 2021 - December 2022
